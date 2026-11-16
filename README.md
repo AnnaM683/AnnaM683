@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Currently I am undergoing an 8-week intensive Data Skills Bootcamp with LeepTalent to become a data analyst. I have worked on several projects to develop my online GitHub portfolio where I can demonstrate my skills in Excel, SQL, Python, Power BI and Tableau.
+
+
+ 
+ 
 <!--
 **AnnaM683/AnnaM683** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
